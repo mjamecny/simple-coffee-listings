@@ -30,6 +30,10 @@ body {
   font-size: 1.6rem;
 }
 
+#root{
+  height: 100vh;
+}
+
 button {
   cursor: pointer;
   font: inherit;
